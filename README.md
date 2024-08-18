@@ -15,7 +15,7 @@ In the dataset, there were 224 images of ‘normal’ optical fibre cables, and 
 - ResNet 50: This is a model widely used in various computer vision applications, including object detection, image classification, and more, due to its ability to learn rich and complex feature representations.
 
 ## Results
-To identify anomalies in a dataset of finished product images, develop a convolutional neural network based on VGG16 yielded the best results. Following were the results from the test data:
+To identify anomalies in a dataset of finished product images, developing a convolutional neural network based on VGG16 yielded the best results. Following were the results from the test data:
 - Loss: 0.506
 - Accuracy: 0.816
 - Recall: 1.000
